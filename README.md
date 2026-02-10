@@ -10,7 +10,15 @@
   <img src="https://img.shields.io/github/stars/RakshakSigdel?affiliations=OWNER&style=for-the-badge&color=yellow" alt="Stars" />
 </p>
 
-I
+---
+
+<h3 align="center">🕹️ GitHub Contribution Space Shooter 🚀</h3>
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
+<!-- <p align="center"><i>Auto-generated from my GitHub contributions</i></p> -->
+
+---
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RakshakSigdel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
