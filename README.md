@@ -30,8 +30,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=RakshakSigdel&theme=tokyonight&hide_border=true"
-       alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=rakshaksigdel&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
